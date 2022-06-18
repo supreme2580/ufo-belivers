@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+article a {
+    color: blue;
+    text-decoration: underline;
+}

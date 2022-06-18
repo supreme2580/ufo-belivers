@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["www.history.com"]
+    domains: ["52.56.219.192"]
   }
 }

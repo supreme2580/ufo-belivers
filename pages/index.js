@@ -14,7 +14,7 @@ export default function Home({posts}) {
 
 export async function getStaticProps() {
 
-  const res = await fetch('http://52.56.219.192/graphql', {
+  const res = await fetch('https://ufo-belivers.000webhostapp.com/graphql', {
     method: 'POST',
     headers: {'Content-Type':'application/json'},
     body: JSON.stringify(

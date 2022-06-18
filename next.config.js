@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["52.56.219.192"]
+    domains: ["ufo-belivers.000webhostapp.com"]
   }
 }
